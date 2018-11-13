@@ -1,0 +1,34 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 16px;
+    font-weight: bold;
+    font-size: 42px;  
+}
+hr{
+    margin: 3px;
+
+}
+.extra, .color{
+    color: grey;
+}
+.name{
+    font-weight: bold;
+}
+.card{
+    border: none;
+    margin-right: 32px;
+}
+.m-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 32px;
+  
+}
+.card:hover{
+border: 1px solid #e4e4e4;;
+
+}
