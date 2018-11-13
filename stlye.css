@@ -30,5 +30,6 @@ hr{
 }
 .card:hover{
 border: 1px solid #e4e4e4;;
+    cursor: pointer;
 
 }
